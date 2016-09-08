@@ -1,0 +1,6 @@
+{
+  "name": "Qimen star",
+  "tagline": "My qimen(奇門遁甲), lui yin(大六壬), and astrology(參星) in single html file",
+  "body": "qimen_star\r\n==========\r\n\r\nMy qimen(奇門遁甲), lui yin(大六壬), and astrology(參星) in single html file\r\n\r\nqimen(奇門遁甲), lui_yin(大六壬), and astrology(參星/占星) in single javascript.\r\nThis is my first release of qimen_star(奇門穿壬參星).\r\nThis application is designed for calculation of life planning like\r\nastrology in both chinese and western style. And this application can be\r\nplaced in android directly without installation. Just a single file to\r\ncomplete it.\r\n\r\nThis apps is made for summer~@hkgolden\r\n\r\nThe following messege is written in chinese:\r\n奇門穿壬參星, 為了學習及探索世界而被制造出來\r\n其制作有參考琴堂派的運算思路, 以其思路嘗試制作出奇門穿壬參星\r\n另外加八字功能, 集批命及占卜於一身, 放入手機運行, 盡收天地都來一掌中之效.\r\n此程式由summer~(at)hkgolden制作\r\n\r\n功能如下:\r\n純文字輸出\r\n八字計算\r\n高精度節氣計算\r\n拆補制時家奇門遁甲\r\n大六壬\r\n占星術主要十大行星\r\n-----未實裝的神煞系統(包含三百個神煞)(已刪除, 於舊版本找到)\r\n八字常用之神煞系統\r\n\r\n自行輸入指定日期:\r\n請按下標題就能輸入\r\n格式如下:\r\nYYYYMMDDHHIIG\r\n其中G為性別，１代表男性，０代表女性\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
